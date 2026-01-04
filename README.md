@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on creating a web app for curly haired people.<br>👯 I’m looking to collaborate on projects related to front-end design & data analytics.<br>🌱 I’m currently studying leetcode & building my skills.<br>
+🔭 Currently working on creating a web app for curly haired people.<br>👯 I’m looking to collaborate on projects related to front-end design & data analytics.<br>🌱 Studying leetcode & designing PowerBI dashboards.<br>
 
 
 # 💻 Tech Stack:
